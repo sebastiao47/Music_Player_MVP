@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_livraria"
+        android:title="Biblioteca"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_listas"
+        android:title="Playlists"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_recognize"
+        android:title="Reconhecer Música"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_details"
+        android:title="Ver Detalhes da Música"
+        app:showAsAction="never" />
+
+</menu>

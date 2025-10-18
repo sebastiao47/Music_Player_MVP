@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "833291607949",
+    "project_id": "music-player-seba",
+    "storage_bucket": "music-player-seba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833291607949:android:5f02462310404a2b7fe7c4",
+        "android_client_info": {
+          "package_name": "com.example.playerseba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA9D4eYdsVjYrjtYXfroa_CzpFNnoQk_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833291607949:android:a2885f09d223ff287fe7c4",
+        "android_client_info": {
+          "package_name": "package.com.example.playerseba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA9D4eYdsVjYrjtYXfroa_CzpFNnoQk_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
